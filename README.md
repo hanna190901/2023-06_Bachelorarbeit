@@ -1,7 +1,7 @@
 # 2023-07_Bachelorarbeit
 
 Im Juli 2023 gab ich meine Bachelorarbeit zum Thema "Entwicklung eines Sensorsystems zur Bestimmung des elektrochemischen Verhaltens von NiMH-Batterien und Optimierung der Energieeffizienz" ab und schloss damit mein B.Sc. Sensorik und kognitive Psychologie an der Technischen Universität Chemnitz ab. Die Bachelorarbeit wurde mit der Note 1,0 bewertet.  
-In diesem Repository sind das Exposé, der Quellcode für den Arduino Mega 2560 und die finale Bachelorarbeit zu finden.
+In diesem Repository sind das Exposé, der Quellcode für den Arduino Mega 2560 und die finale Bachelorarbeit zu finden. Der Quelltext wurde zusammen mit [@Olivervoel](https://github.com/Olivervoel) von BeST Berliner Sensortechnik GmbH erarbeitet.
 
 ### Kurzfassung
 
